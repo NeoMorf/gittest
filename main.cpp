@@ -5,7 +5,7 @@
 #include <time.h>
 
 #include <QRandomGenerator>
-
+//another comment
 // ======================================================================
 class PainterPathWidget : public QWidget
 {
